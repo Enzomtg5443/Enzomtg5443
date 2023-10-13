@@ -1,1 +1,17 @@
+🎉 | Sorteio Api
+$nomention
+$onlyAdmin[Só ADMS podem usar este comando!]
+$thumbnail[$authorAvatar]
+$color[00FFCB]
+$title[**🎉 Sorteio 🎉**]
+$description[Prêmio: $message[2] $message[3] $message[4] $message[5] $message[6] $message[7] $message[8] $message[9]
 
+Tempo: $message[1]
+
+Ganhador: Ninguém ainda]
+$editIn[$message[1];Prêmio: $message[2] $message[3] $message[4] $message[5] $message[6] $message[7] $message[8] $message[9]
+
+Tempo: Acabou
+
+Ganhador: $randomMention]
+$image[https://stemarte.sirv.com/47%20Sem%20T%C3%ADtulo_20231013073405.png?text.0.text=$message[2]&text.0.position.x=-58%25&text.0.position.y=-30%25&text.0.size=20&text.0.color=ff0000&text.0.font.family=Rokkitt&text.0.font.weight=700&text.1.text=$message[1]&text.1.position.x=-53%25&text.1.position.y=-15%25&text.1.size=20&text.1.color=ff0000&text.1.font.family=Rokkitt&text.1.font.weight=700]
